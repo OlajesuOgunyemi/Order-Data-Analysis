@@ -4,19 +4,19 @@ TABLE OF CONTENT
 
 ## INTRODUCTION 
 
-[PROJECT OVERVIEW](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#project-overview) 
+[PROJECT OVERVIEW](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#project-overview) 
 
-[DATASET STRUCTURE](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#dataset-structure)
+[DATASET STRUCTURE](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#dataset-structure)
 
-[DATA CLEANING AND MERGING](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#data-preparation--cleaning) 
+[DATA CLEANING AND MERGING](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#data-preparation--cleaning)
 
-[ANALYTICAL QUESTION](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#analytical-questions-answered-via-pivot-tables-and-excel-dashboard) 
+[ANALYTICAL QUESTION](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#analytical-questions-answered-via-pivot-tables-and-excel-dashboard)
 
-[DASHBOARD & VISUALIZATION](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#dashboard-highlights) 
+[DASHBOARD & VISUALIZATION](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#dashboard-highlights) 
 
-[KEY INSIGHTS](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#key-insights) 
+[KEY INSIGHTS](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#key-insights)
 
-[RECOMMENDATION](https://github.com/OlajesuOgunyemi/Order-Data-Analysis/edit/main/README.md#recommendations)
+[RECOMMENDATION](https://github.com/OlajesuOgunyemi/Order-Data-Analysis#recommendations)
 
 ## PROJECT OVERVIEW 
 
